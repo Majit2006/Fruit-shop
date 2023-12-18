@@ -1,0 +1,62 @@
+* {
+  list-style: none !important;
+  box-sizing: border-box !important;
+}
+
+input[type="search"]:focus {
+  background: none !important;
+}
+select:focus {
+  border: secondary;
+  box-shadow: none !important;
+}
+
+input[type="submit"]:hover {
+  background: #8dc73f !important;
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px !important;
+}
+
+.burger {
+  font-size: 30px;
+}
+
+.bi-search {
+  font-size: 15px;
+}
+
+.bg-green {
+  background-color: #8dc73f;
+}
+.btn-success {
+  background-color: #8dc73f !important;
+}
+.text-green {
+  color: #8dc73f !important;
+}
+.bi-basket {
+  font-size: 16px;
+}
+
+.border-secondary {
+  border-color: rgba(223, 223, 223, 0.74) !important;
+}
+
+.text-success-color {
+  font-size: 20px;
+  color: #8dc73f;
+}
+
+.bi-star {
+  font-size: 14px;
+}
+
+.bi-star-fill {
+  font-size: 14px;
+}
+
+.bi-heart {
+  font-size: 19px;
+}
